@@ -1,0 +1,4 @@
+serveur = {
+	Name = serveur
+	Port = 5000
+}

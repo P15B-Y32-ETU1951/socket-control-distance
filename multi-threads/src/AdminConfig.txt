@@ -1,0 +1,7 @@
+client = {
+	Name = Admin
+	Port = 5000
+	IpServeur = 127.0.0.1
+	Dossier = D:/ITU/Docu
+	Id = 123
+}

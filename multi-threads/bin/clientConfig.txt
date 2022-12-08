@@ -1,0 +1,7 @@
+client = {
+	Name = mic
+	Port = 5000
+	IpServeur = 127.0.0.1
+	Dossier = C:/Users/P15B-Heja/Desktop/Suck
+	Id = 69
+}
